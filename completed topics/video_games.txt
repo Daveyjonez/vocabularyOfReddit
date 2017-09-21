@@ -1,0 +1,1 @@
+["leagueoflegends","pokemon","Minecraft","skyrim","hearthstone","GlobalOffensive","wow","DotA2","Fallout","DestinyTheGame","starcraft","smashbros","GrandTheftAutov","tf2","zelda","Diablo","civ","Guildwars2","dayz","KerbalSpaceProgram","FIFA","halo"]

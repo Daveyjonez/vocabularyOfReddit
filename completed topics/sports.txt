@@ -1,0 +1,1 @@
+["Candian Football", "American Football", "MLS", "Rugby Union", "NRL", "Baseball", "MLB", "Hockey", "NHL", "Basketball", "Golf", "Tennis", "Cricket", "Bicycling", "BJJ", "Boxing", "Formula1", "MMA", "Nascar", "Track and Field", "Volleyball", "Wrestling"]

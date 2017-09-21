@@ -1,0 +1,1 @@
+["NYC","Seattle","Chicago","Toronto","LosAngeles","Portland","Boston","Austin","London","SanFrancisco","Vancouver","WashingtonDC","Houston","Atlanta","Philadelphia","Denver","Melbourne","SanDiego"]
